@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexi\\Documents\\Macarilay Files\\Macarilay Files\\InventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|c:\\users\\alexi\\documents\\macarilay files\\macarilay files\\inventorymanagementsystem\\inventorysystem\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|C:\\Users\\alexi\\Documents\\Macarilay Files\\Macarilay Files\\InventoryManagementSystem\\inventorysystem\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|InventorySystem\\InventoryMSystem.csproj|solutionrelative:inventorysystem\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin_home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\Macarilay Files\\Macarilay Files\\InventoryManagementSystem\\InventorySystem\\Admin_home.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Admin_home.cs",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\Macarilay Files\\Macarilay Files\\InventoryManagementSystem\\InventorySystem\\Admin_home.cs [Design]",
+              "RelativeToolTip": "InventorySystem\\Admin_home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:54:55.666Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin_home.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\Macarilay Files\\Macarilay Files\\InventoryManagementSystem\\InventorySystem\\Admin_home.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Admin_home.cs",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\Macarilay Files\\Macarilay Files\\InventoryManagementSystem\\InventorySystem\\Admin_home.cs",
+              "RelativeToolTip": "InventorySystem\\Admin_home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T02:41:30.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
