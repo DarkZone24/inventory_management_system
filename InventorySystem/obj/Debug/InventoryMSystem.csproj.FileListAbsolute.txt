@@ -1,0 +1,140 @@
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\bin\Debug\InventorySystem.exe.config
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\bin\Debug\InventorySystem.exe
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\bin\Debug\InventorySystem.pdb
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventoryMSystem.csprojResolveAssemblyReference.cache
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.Admin_home.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.Confirm.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.Home.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.Login.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.Manager_home.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.MyOrders.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystem.Properties.Resources.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.SignUp.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.UserControl1.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.User_list.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventoryMSystem.csproj.GenerateResource.Cache
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventoryMSystem.csproj.CoreCompileInputs.cache
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystem.exe
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystem.pdb
+F:\codeastro\C#\Inventory-management-system\InventorySystem\bin\Debug\InventorySystem.exe.config
+F:\codeastro\C#\Inventory-management-system\InventorySystem\bin\Debug\InventorySystem.exe
+F:\codeastro\C#\Inventory-management-system\InventorySystem\bin\Debug\InventorySystem.pdb
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventoryMSystem.csprojResolveAssemblyReference.cache
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.Admin_home.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.Confirm.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.Home.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.Login.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.Manager_home.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.MyOrders.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.SignUp.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.UserControl1.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.User_list.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventoryMSystem.csproj.GenerateResource.Cache
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventoryMSystem.csproj.CoreCompileInputs.cache
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystem.exe
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystem.pdb
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.exe
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.pdb
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csprojResolveAssemblyReference.cache
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Admin_home.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Confirm.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Home.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Login.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Manager_home.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.MyOrders.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.SignUp.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.UserControl1.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.User_list.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.GenerateResource.Cache
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.CoreCompileInputs.cache
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.exe
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.AssemblyReference.cache
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Admin_home.resources
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Confirm.resources
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Home.resources
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Login.resources
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Manager_home.resources
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.MyOrders.resources
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.SignUp.resources
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.UserControl1.resources
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.User_list.resources
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.GenerateResource.cache
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\Inventor.33342FDC.Up2Date
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.exe.config
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\MySqlConnector.dll
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Buffers.dll
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Memory.dll
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\MySqlConnector.xml
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Buffers.xml
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Memory.xml
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alexi\Documents\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\MySqlConnector.dll
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Buffers.dll
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Memory.dll
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\MySqlConnector.xml
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Buffers.xml
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Memory.xml
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.AssemblyReference.cache
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.exe.config
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Admin_home.resources
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Confirm.resources
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Home.resources
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Login.resources
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Manager_home.resources
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.MyOrders.resources
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.SignUp.resources
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.UserControl1.resources
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.User_list.resources
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.GenerateResource.cache
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\Inventor.33342FDC.Up2Date
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.exe.manifest
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.application
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.exe.manifest
+C:\Users\alexi\Documents\Macarilay Files\Macarilay Files\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.application
